@@ -14,7 +14,9 @@ Requirements
 - Stata
 
 Data requirements:
-**NOTE:** Some of the data linked to the UCLA stats sample datasets are broken. We are in the process of fixing these bugs.  
+
+**NOTE:** Some of the data linked to the UCLA stats sample datasets are broken. We are in the process of fixing these bugs. 
+
 - Only the "titanic12.dta" file needs to be downloaded and saved in your directory. We provide links to other datasets or use "input" to read in simple data. All data for this course are "small". 
 
 File Descriptions
